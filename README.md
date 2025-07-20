@@ -1,2 +1,2 @@
-# Rubik-s-Cube-
-project 1
+# Rubik-s-Cube-Solver
+This
